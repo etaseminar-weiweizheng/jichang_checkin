@@ -2,7 +2,7 @@
 
 >只要机场网站''' Powered by SSPANEL '''，就可进行签到。
 >要确认是否为''' Powered by SSPANEL '''，在机场首页最底端就可看到。
->例如：
+>如下：
 >
 ![Y0}SY$J`8837H8T5GXM1DZY](https://user-images.githubusercontent.com/21276183/214764546-4f66333a-cb9b-420e-8260-697d26fb4547.png)
 
@@ -28,8 +28,7 @@
 | SCKEY  | 否  | Sever酱秘钥  |
 <br/>
 
-<b>其中URL值必须为机场网站精简地址，包括尾部不含''' / '''
->例如：
+<b>其中URL值必须为机场网站精简地址，包括尾部不含''' / '''，如下：
 >https://example.com</b>
 
 >3. 到`Actions`Menu中创建一个Workflow，运行一次，以后每天项目即可自动运行。<br/>
