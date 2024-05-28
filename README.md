@@ -6,7 +6,7 @@
 >
 ![Y0}SY$J`8837H8T5GXM1DZY](https://user-images.githubusercontent.com/21276183/214764546-4f66333a-cb9b-420e-8260-697d26fb4547.png)
 
-## 作用
+## 主要作用
 >每天自动进行签到，获取每日签到流量奖励
 
 ## 推送方式
