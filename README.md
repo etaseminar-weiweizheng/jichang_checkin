@@ -1,7 +1,7 @@
 # SSPANEL机场通用每日签到Workflow<br/>
 
->只要机场网站''' Powered by SSPANEL '''，就可进行签到。
->要确认是否为''' Powered by SSPANEL '''，在机场首页最底端就可看到。
+>只要机场网站''' Powered by SSPANEL '''，就可进行签到
+>要确认是否为''' Powered by SSPANEL '''，在机场首页最底端就可看到
 >如下：
 >
 ![Y0}SY$J`8837H8T5GXM1DZY](https://user-images.githubusercontent.com/21276183/214764546-4f66333a-cb9b-420e-8260-697d26fb4547.png)
