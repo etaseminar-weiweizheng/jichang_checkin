@@ -2,7 +2,7 @@ name: "Common airport Checkin"
 
 on:
   schedule:
-    - cron: "3 0 * * *"  # Time Schedule 
+    - cron: "3 0 * * *"  # Time Schedule
   workflow_dispatch:
 
 env:
